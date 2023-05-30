@@ -6,4 +6,4 @@ And also i have used some validation like age validation,mobile number validatio
 
 ![Screenshot 2023-05-29 221911](https://github.com/praveensaini007/UserForm/assets/130230370/30b201be-266a-4f21-87d2-22373209ea2a)
 
-
+![image](https://github.com/praveensaini007/UserForm/assets/130230370/600433f9-89d5-4680-b52c-e23f2a51d63c)
